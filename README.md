@@ -1,6 +1,6 @@
 # FingerprintDNN
 
-Fast pitch tracking for musical instruments using a MLP trained on the NSynth Dataset (Engel et. al) 
+Fast pitch tracking for musical instruments using a Keras MLP trained on the NSynth Dataset (Engel et. al) 
 
 NSynth Dataset: https://magenta.tensorflow.org/datasets/nsynth
 
